@@ -40,4 +40,9 @@ Welcome to the **ft_transcendence** project, a modern take on the classic Pong g
 
 To learn more and play the game, visit our project website: [Sunset Pong](https://sunset-pong.de)
 
-
+## Contributors
+- [Guillaume Bussiere](https://github.com/Bussiereg)
+- [Jules Bernard](https://github.com/julesrb)
+- [Martijn Wallage](https://github.com/MartijnWallage)
+- [Ramesh Timsina](https://github.com/Rameshtim)
+- [Hongbae Kim](https://github.com/HONGBAEKIM)
